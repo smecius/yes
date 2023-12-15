@@ -1,0 +1,8 @@
+"name": "Smetonos apsauga",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 666,
+		"cost": 90,
+		"requiredTech": "Agriculture",
+		"uniques": ["[+50]% Strength      <vs [Mounted] units>"],
+		"attackSound": "metalhit"
